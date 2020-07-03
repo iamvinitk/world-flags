@@ -1,7 +1,7 @@
 {
   "name": "world-flags-example",
   "homepage": ".",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
@@ -10,7 +10,7 @@
     "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject"
   },
   "dependencies": {
-    "@iamvinitk/world-flags": "^1.0.0",
+    "@iamvinitk/world-flags": "^0.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
