@@ -21,7 +21,7 @@
     "test:unit": "cross-env CI=1 node scripts/test.js --env=jsdom",
     "test:watch": "node scripts/test.js --env=jsdom",
     "predeploy": "cd example && npm install && npm run build",
-    "deploy": "gh-pages -d example/build -u Vinit Kanani kananivinit97@gmail.com"
+    "deploy": "gh-pages -d example/build -u 'Vinit Kanani kananivinit97@gmail.com'"
   },
   "peerDependencies": {
     "react": "^16.0.0"
