@@ -6,7 +6,11 @@ const App = () => {
   return (
     <div>
       <h3>India Flag</h3>
-      <Flag code='IN' fallback={<span>Unknown</span>} />
+      <Flag
+        code='IN'
+        fallback={<span>Unknown</span>}
+        style={{ height: '100px' }}
+      />
     </div>
   )
 }
