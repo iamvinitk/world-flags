@@ -20,8 +20,10 @@ jobs:
           node-version: 12
       - run: git config --global user.email "kananivinit97@gmail.com"
       - run: git config --global user.name "Vinit Kanani"
-      - run: git config --global credential.helper wincred
+      - run: git config user.email "kananivinit97@gmail.com"
+      - run: git config user.name "Vinit Kanani"
       - run: npm i
+      - run: printenv
       - run: npm run deploy
       - run: npm version patch
       - run: git push
