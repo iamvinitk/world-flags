@@ -9,7 +9,7 @@ const App = () => {
       <Flag
         code='IN'
         fallback={<span>Unknown</span>}
-        style={{ height: '100px' }}
+        style={{ height: '200px' }}
       />
     </div>
   )
