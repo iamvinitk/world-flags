@@ -1,0 +1,7 @@
+build/
+dist/
+scripts/
+config/
+node_modules/
+.snapshots/
+*.min.js
