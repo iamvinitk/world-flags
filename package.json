@@ -1,6 +1,6 @@
 {
   "name": "@iamvinitk/world-flags",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "SVG world flags with lazy loading",
   "author": "iamvinitk",
   "license": "MIT",
