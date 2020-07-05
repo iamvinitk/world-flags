@@ -2,7 +2,7 @@
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/@iamvinitk/world-flags.svg)](https://www.npmjs.com/package/@iamvinitk/world-flags) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![codecov](https://codecov.io/gh/iamvinitk/world-flags/branch/master/graph/badge.svg)](https://codecov.io/gh/iamvinitk/world-flags)
+[![NPM](https://img.shields.io/npm/v/@iamvinitk/world-flags.svg)](https://www.npmjs.com/package/@iamvinitk/world-flags) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![codecov](https://codecov.io/gh/iamvinitk/world-flags/branch/master/graph/badge.svg)](https://codecov.io/gh/iamvinitk/world-flags) ![Node.js Package](https://github.com/iamvinitk/world-flags/workflows/Node.js%20Package/badge.svg)
 
 
 ## Install
